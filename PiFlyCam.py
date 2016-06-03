@@ -69,12 +69,3 @@ while True:
 
 print 'FlyRecord Stop~~~~~~~'
 print ('  --- Total Video : %d' % RecIDX)
-
-
-		
-
-
-
-
-
-
